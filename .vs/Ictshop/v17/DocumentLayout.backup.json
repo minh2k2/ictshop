@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mot tuan\\quanlydienthoai\\ictshop_aspnet-ictshop_v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\minhd\\AppData\\Local\\Temp\\.vsdbgsrc\\287b255fdcc63dfc58976715ca0e811d63fdbd06e37a6bb383957f6cdc19c9c2\\GioHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|d:\\mot tuan\\quanlydienthoai\\ictshop_aspnet-ictshop_v1\\ictshop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\minhd\\AppData\\Local\\Temp\\.vsdbgsrc\\287b255fdcc63dfc58976715ca0e811d63fdbd06e37a6bb383957f6cdc19c9c2\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\minhd\\AppData\\Local\\Temp\\.vsdbgsrc\\287b255fdcc63dfc58976715ca0e811d63fdbd06e37a6bb383957f6cdc19c9c2\\GioHangController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:55:14.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\mot tuan\\quanlydienthoai\\ictshop_aspnet-ictshop_v1\\Ictshop\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\mot tuan\\quanlydienthoai\\ictshop_aspnet-ictshop_v1\\Ictshop\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwLMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:44:46.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
